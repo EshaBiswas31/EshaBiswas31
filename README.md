@@ -4,10 +4,14 @@ Aspiring Data Analyst with hands-on experience in SQL, Python, and Tableau.
 I enjoy turning raw data into meaningful insights and dashboards.
 
 ### 🛠 Skills
+## Tech Stack
 - SQL (MySQL)
 - Python (Pandas, Seaborn, Matplotlib)
 - Tableau
-- Data Cleaning & EDA
+- Microsoft Excel
+- C
+- Java
+
 
 ### 📊 Featured Project
 🔹 **BigBasket Inventory Analysis**  
